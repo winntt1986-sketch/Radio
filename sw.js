@@ -1,4 +1,4 @@
-const CACHE = "fpv-detector-v1";
+const CACHE = "fpv-detector-v2";
 const ASSETS = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (event) => {
